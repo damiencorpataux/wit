@@ -1,4 +1,4 @@
-howdid *
+wit *
 =
 
 **Track the meaningful from your bash history.**
